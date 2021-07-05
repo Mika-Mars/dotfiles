@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = brunmikael.mars@gmail.com
+	name = mika brun
